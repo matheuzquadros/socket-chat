@@ -1,6 +1,6 @@
 # socket-chat
 
-Um aplicativo de chat em grupo desenvolvido em cima da camada de transporte do modelo OSI.
+Um aplicativo de chat em grupo desenvolvido em cima da camada de transporte.
 
 ### Requisitos
 
