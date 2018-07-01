@@ -8,13 +8,13 @@ Nodejs
 
 ## Como rodar a aplicação
 
-Dentro da pasta do projeto você precisa baixar as dependências utilizando o comando:
+Dentro da pasta do projeto é necessário baixar as dependências do projeto utilizando o comando:
 
 ```
 npm install
 ```
 
-Após isso, você deve executar o servidor, ele quem receberá as mensagens dos usuários e transmitirá para todos os outros usuários conectados, para rodá-lo utilize o comando via terminal:
+Após isso, você deverá executar o servidor, é ele quem receberá as mensagens dos usuários e transmitirá para todos os demais usuários conectados, para rodá-lo utilize o comando via terminal:
 
 ```
 node server.js
@@ -30,4 +30,4 @@ Para simular vários usuários conectados é necessario repetir o passo anterior
 
 ## Como utilizar
 
-Após iniciado, você deve inserir seu nome, após isso você ja estará conectado ao chat, para sair é só digitar o comando "sair".
+Após iniciado, você deve inserir seu nome, depois disso você ja estará conectado ao chat. Para sair é só digitar o comando "sair".
