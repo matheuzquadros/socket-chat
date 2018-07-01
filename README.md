@@ -4,7 +4,7 @@ Um aplicativo de chat em grupo desenvolvido em cima da camada de transporte do m
 
 ### Requisitos
 
-Nodejs
+Node.js
 
 ## Como rodar a aplicação
 
