@@ -17,13 +17,13 @@ npm install
 Após isso, você deverá executar o servidor, é ele quem receberá as mensagens dos usuários e transmitirá para todos os demais usuários conectados, para rodá-lo utilize o comando via terminal:
 
 ```
-node server.js
+node app/server.js
 ```
 
 Depois disso, é necessario iniciar a instância cliente, para isso, abra um novo terminal e execute o comando:
 
 ```
-node client.js
+node app/client.js
 ```
 
 Para simular vários usuários conectados é necessario repetir o passo anterior.
